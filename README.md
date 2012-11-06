@@ -3,6 +3,10 @@ Nice Python Stuff
 
 *Nice links, presentations, articles for Python programming and related*
 
+Web Tools
+----------------
+* [Python Regex Tool](http://www.pythonregex.com/)
+
 Functional Programming
 -----------------
 * [Functional Programming with Python](http://ua.pycon.org/static/talks/kachayev/)
