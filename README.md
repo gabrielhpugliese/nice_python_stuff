@@ -28,3 +28,4 @@ Functional Programming
 Project related
 ---------------
 * [Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Django class-based views](http://ccbv.co.uk/)
