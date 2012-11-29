@@ -25,6 +25,7 @@ Project related
 ---------------
 * [Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Django class-based views](http://ccbv.co.uk/)
+* [Stay with Django CBV defaults](http://pydanny.com/stay-with-the-django-cbv-defaults.html?utm_source=Python+Weekly+Newsletter&utm_campaign=d20c07ea9f-Python_Weekly_Issue_63_November_29_2012&utm_medium=email)
 
 Web Tools
 ----------------
