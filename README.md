@@ -9,9 +9,10 @@ Classes
 * [@property, getters and setters](http://stackoverflow.com/questions/6304040/real-world-example-about-how-to-use-property-feature-in-python)
 * [Things you didn't know about Python](https://speakerdeck.com/mitsuhiko/didntknow)
 
-Complexity Analysis
+Complexity Analysis/Optimization
 -------------
 * [Time Complexity of Built-in Data Structures](http://wiki.python.org/moin/TimeComplexity)
+* [Optimizing Your App Engine App](http://proppy-appstats.appspot.com/)
 
 Decorators
 --------------
@@ -25,7 +26,8 @@ Project related
 ---------------
 * [Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Django class-based views](http://ccbv.co.uk/)
-* [Stay with Django CBV defaults](http://pydanny.com/stay-with-the-django-cbv-defaults.html?utm_source=Python+Weekly+Newsletter&utm_campaign=d20c07ea9f-Python_Weekly_Issue_63_November_29_2012&utm_medium=email)
+* [Stay with Django CBV defaults](http://pydanny.com/stay-with-the-django-cbv-defaults.html)
+* [Implementing a Python OAuth 2.0 Provider - Part 2](http://tech.shift.com/post/40299429203/implementing-a-python-oauth-2-0-provider-part-2)
 
 Web Tools
 ----------------
