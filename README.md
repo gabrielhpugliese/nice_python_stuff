@@ -22,6 +22,10 @@ Functional Programming
 -----------------
 * [Functional Programming with Python](http://ua.pycon.org/static/talks/kachayev/)
 
+Real-Time Programming
+---------------
+* [Realtime Django Using Node.js and Socket.IO](http://maxburstein.com/blog/realtime-django-using-nodejs-and-socketio/)
+
 Project related
 ---------------
 * [Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
