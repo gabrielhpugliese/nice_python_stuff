@@ -21,6 +21,7 @@ Decorators
 Functional Programming
 -----------------
 * [Functional Programming with Python](http://ua.pycon.org/static/talks/kachayev/)
+* [What’s lazy evaluation about ?](http://fulmicoton.com/posts/lazy/)
 
 Real-Time Programming
 ---------------
