@@ -6,6 +6,7 @@ Nice Python Stuff
 Classes
 --------------
 * [Pycon 2012 - Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
+* [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/)
 * [@property, getters and setters](http://stackoverflow.com/questions/6304040/real-world-example-about-how-to-use-property-feature-in-python)
 * [Things you didn't know about Python](https://speakerdeck.com/mitsuhiko/didntknow)
 
