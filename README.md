@@ -13,13 +13,11 @@ Complexity Analysis/Optimization
 -------------
 * [Time Complexity of Built-in Data Structures](http://wiki.python.org/moin/TimeComplexity)
 * [Optimizing Your App Engine App](http://proppy-appstats.appspot.com/)
-
-Decorators
---------------
-* [Python Decorator Library](http://wiki.python.org/moin/PythonDecoratorLibrary)
+* [Write Cleaner Python: Use Exceptions](http://www.jeffknupp.com/blog/2013/02/06/write-cleaner-python-use-exceptions/)
 
 Functional Programming
 -----------------
+* [Python Decorator Library](http://wiki.python.org/moin/PythonDecoratorLibrary)
 * [Functional Programming with Python](http://ua.pycon.org/static/talks/kachayev/)
 * [What’s lazy evaluation about ?](http://fulmicoton.com/posts/lazy/)
 
