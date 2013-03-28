@@ -33,6 +33,7 @@ Project related
 * [Stay with Django CBV defaults](http://pydanny.com/stay-with-the-django-cbv-defaults.html)
 * [Implementing a Python OAuth 2.0 Provider - Part 2](http://tech.shift.com/post/40299429203/implementing-a-python-oauth-2-0-provider-part-2)
 * [Benchmark of Python WSGI Servers](http://nichol.as/benchmark-of-python-web-servers)
+* [Flask mega-tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 Web Tools
 ----------------
